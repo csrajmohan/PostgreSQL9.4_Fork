@@ -1,5 +1,5 @@
 # PostgreSQL9.4_Fork
-Fork of PostgreSQL 9.4 database engine equipped with required features for Plan Bouquet technique
+Fork of PostgreSQL 9.4 database engine equipped with multiple features
 
 Features:
 * Foreign plan costing
